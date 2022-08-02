@@ -176,7 +176,7 @@
 
 END OF TERMS AND CONDITIONS
 
-LLVM EXCEPTIONS TO THE APACHE 2.0 LICENSE
+## LLVM EXCEPTIONS TO THE APACHE 2.0 LICENSE
 
 As an exception, if, as a result of your compiling your source code, portions
 of this Software are embedded into an Object form of such source code, you may
@@ -205,7 +205,7 @@ END OF LLVM EXCEPTIONS
    same "printed page" as the copyright notice for easier
    identification within third-party archives.
 
-
+Copyright 2022 [Philip.O](https://github.com/Kellsonphilips)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
