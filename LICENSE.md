@@ -176,6 +176,9 @@
 
 END OF TERMS AND CONDITIONS
 
+
+---
+
 ## LLVM EXCEPTIONS TO THE APACHE 2.0 LICENSE
 
 As an exception, if, as a result of your compiling your source code, portions
@@ -193,6 +196,7 @@ their entirety and only with respect to the Combined Software.
 
 END OF LLVM EXCEPTIONS
 
+---
 
 ### APPENDIX: How to apply the Apache License to your work.
 
