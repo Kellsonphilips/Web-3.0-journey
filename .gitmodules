@@ -1,3 +1,6 @@
 [submodule "hello to web 3.0"]
 	path = hello to web 3.0
 	url = https://github.com/Kellsonphilips/hello-to-web-3.0
+[submodule "onenote App"]
+	path = onenote App
+	url = https://github.com/Kellsonphilips/All-notes-in-one
