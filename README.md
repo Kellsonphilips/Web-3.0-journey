@@ -9,4 +9,7 @@ Documenting my progress learning Web 3.0 and my projects on web 3.0
 - Started the web 3.0 Journy with Internet Computers language 
 - Motoko for the BackEnd
 
+### Test to repo
+
+- `git clone repo http url`
 
